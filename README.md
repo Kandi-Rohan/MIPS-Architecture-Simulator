@@ -28,14 +28,7 @@ The simulator is written in **Python** and models each pipeline stage (IF, ID, E
 - `sample.asm` — example MIPS assembly for testing
 - `MIPS_Processor_Simulation_Report.pdf` — project report
 
-## Quick usage
 
-1. Install Python 3.8+ (recommended).
-2. From the project root run:
-
-```powershell
-python main.py
-```
 
 The simulator will run the sample program and print per-cycle logs and a summary of performance metrics.
 
